@@ -1,5 +1,5 @@
 Projet d'Authentification 🎉
-Description
+
 
 Ce projet implémente un système d'authentification complet, permettant aux utilisateurs de s'inscrire ✍️, de se connecter 🔑 et de naviguer sur une page d'accueil 🏠 après la connexion. Le système inclut des fonctionnalités de gestion des sessions pour sécuriser l'accès aux différentes pages de l'application. Le projet utilise des technologies telles que PHP pour le back-end et MySQL pour la gestion des utilisateurs.
 Fonctionnalités principales ✨
