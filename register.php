@@ -10,8 +10,8 @@
         <h1>S'inscrire</h1>
 
         <form action="traitement.php?action=register" method="POST">
-            <label for="pseudo">Pseudo</label>
-            <input type="text" name="pseudo" id="pseudo"><br>
+            <label for="nickname">Pseudo</label>
+            <input type="text" name="nickname" id="nickname"><br>
 
             <label for="email">Mail</label>
             <input type="email" name="email" id="email"><br>
